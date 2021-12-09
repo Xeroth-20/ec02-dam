@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">EC02</string>
+    <string name="app_name">Adopt Me</string>
+
+    <string name="name_label">Enter your name</string>
+    <string name="name_error_message">Your name must have at least 3 characters</string>
+    <string name="login_btn_text">Login</string>
+
+    <string name="home_title">Welcome</string>
+    <string name="default_name">Unknown</string>
+    <string name="pet_section_title">Pets</string>
+
+    <string name="default_pet_name">Pet name</string>
+    <string name="default_pet_animal">Animal</string>
+    <string name="default_pet_breed">Breed</string>
+    <string name="default_pet_description">This is a default description.</string>
+    <string name="pet_see_more_btn_text">See more</string>
+    <string name="adopt_btn_text">Adopt</string>
+
+    <string name="made_by">Made by Jhonatan Castillo</string>
 </resources>
